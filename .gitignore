@@ -3,3 +3,6 @@ _build/
 .tox/
 venv/
 .venv/
+
+# Jupyter Notebooks
+**/.ipynb_checkpoints
